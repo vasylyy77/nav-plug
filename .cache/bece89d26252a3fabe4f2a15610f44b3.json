@@ -1,0 +1,1 @@
+{"dependencies":[{"name":"./plugNav/index","loc":{"line":1,"column":7}},{"name":"./main.scss","loc":{"line":2,"column":7}}],"generated":{"js":"\"use strict\";\n\nrequire(\"./plugNav/index\");\n\nrequire(\"./main.scss\");"},"hash":"77b13b67c3c64b6933da0c6f9605e4f8"}
